@@ -1,4 +1,4 @@
-# Windows 11 Upgrade Strategy
+# Windows 11 Upgrade
 
 ## Objective
 
